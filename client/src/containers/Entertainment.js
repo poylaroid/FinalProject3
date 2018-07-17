@@ -116,7 +116,7 @@ class Entertainment extends Component {
      
       <div class="jumbotron">
       <video id="bg-video" autoplay="true" loop="loop" preload="metadata" muted="muted">
-        <source src="https://www.videvo.net/videvo_files/converted/2016_09/preview/Beach_Party_2.mov54018.webm" type="video/webm" />
+        <source src="https://www.videvo.net/videvo_files/converted/2013_12/preview/Band_Stock_1.mp437170.webm" type="video/webm" />
       </video>
 
      
