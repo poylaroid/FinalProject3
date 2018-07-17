@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 if (process.env.NODE_ENV === "production") {
   app.use(express.static("client/build"));
 }
-var MONGODB_URI = "mongodb://heroku_rmkc1h02:v2qqkihmf9obj39k24anob59ou@ds217671.mlab.com:17671/heroku_rmkc1h02"
+var MONGODB_URI = "mongodb://heroku_dhj6hns9:g2j6b9e6du4r3g2i0r25tg8n91@ds139951.mlab.com:39951/heroku_dhj6hns9"
 
 // Set mongoose to leverage built in JavaScript ES6 Promises
 // Connect to the Mongo DB
