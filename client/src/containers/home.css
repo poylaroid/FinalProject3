@@ -1,0 +1,53 @@
+
+.btn-block {
+  width:20%
+}
+/* .col-8 {
+  float:right;
+  margin-right:20px;
+} */
+
+.col-5{
+  float:left;
+}
+
+
+
+.jumbotron {
+  margin: 70vh 0;
+  overflow-y: hidden;
+}
+
+#bg-video {
+  top: 0px;
+  left: 0px;
+  position: fixed;
+  z-index: -1;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+
+#rounded {
+  border-radius: 200px;
+  display: inline-block;
+  vertical-align: middle;
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
+}
+
+#rounded:hover,
+#rounded:focus,
+#rounded:active {
+  transform: scale(1.1);
+}
+
+h2 {
+  font-weight: bolder;
+  font-family: 'Shrikhand', cursive;
+}
+
